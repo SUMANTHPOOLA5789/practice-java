@@ -1,4 +1,4 @@
-package com.trainingmug.java.datatypes;
+package com.trainingmug.java.fundamentals.typeconversion;
 
 public class TypeConversion {
     public static void main(String[] args) {

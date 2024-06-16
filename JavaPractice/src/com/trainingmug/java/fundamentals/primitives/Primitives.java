@@ -1,4 +1,4 @@
-package com.trainingmug.java.datatypes;
+package com.trainingmug.java.fundamentals.primitives;
 
 public class Primitives {
     public static void main(String[] args) {
